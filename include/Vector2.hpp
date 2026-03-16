@@ -4,6 +4,7 @@
 
 #ifndef PHYSICS_ENGINE_VECTOR2_HPP
 #define PHYSICS_ENGINE_VECTOR2_HPP
+
 #include <cmath>
 
 struct Vector2 {

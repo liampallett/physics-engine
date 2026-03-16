@@ -31,7 +31,7 @@ For each non-obvious technical choice made in this project:
 
 # Tech Stack
 
-- Languages used:
+- Languages used: C++
 - Frameworks/libraries:
 - Tools and platforms:
 
